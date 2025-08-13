@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "img": "/assets/registan.png",
-        "h1": "Заголовок 2",
-        "p": "описание 2",
-        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus impedit quia culpa repellat explicabo distinctio totam aperiam autem. Laboriosam, voluptatem? Inventore ipsum a neque eaque laudantium similique fugiat reiciendis nemo excepturi voluptate incidunt modi architecto, minus delectus cum voluptatem necessitatibus tempora ullam doloribus. Eveniet repellendus numquam quis placeat. Harum, in fuga? Ut, tempore? Tempora accusamus neque doloribus molestias. Nobis, commodi? Sunt similique facere incidunt ut, a nam laudantium reiciendis ipsa fugit vitae ad saepe iste voluptas adipisci quos deleniti, doloremque libero quis reprehenderit, dolorem ipsum porro obcaecati? Error incidunt molestias nesciunt, illum, architecto ea nemo soluta voluptas iste, minima quis."
+        "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Choponota.jpg",
+        "h1": "Мавзолей Чупон-ота",
+        "p": "А вы когда-нибудь видели в Самарканде мавзолей, расположенный на 100 метров выше города, в котором никто не был похоронен? Для чего вообще нужны мавзолеи?",
+        "about": "Мавзолеях обычно хоронят общественных деятелей, правителей и полководцев. Однако мавзолей Чупон-ота выделяется среди них. Мавзолей Чупон-ота находится на высоте 824 метров над уровнем моря, и отсюда можно любоваться панорамой города. Во время археологических работ здесь были найдены оружие и снаряжение воинов. Самое интересное, что в мавзолее не было обнаружено ни одной могилы. Глина из окрестностей мавзолея была использована для возведения фундамента мавзолея Гур-Эмир. Позднее вокруг него Улугбек построил свою обсерваторию. По некоторым источникам, это место также выполняло функцию маяка."
     },
     {
         "id": 3,
