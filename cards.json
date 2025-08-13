@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "img": "/assets/registan.png",
-        "h1": "Title 2",
-        "p": "description 2",
-        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus impedit quia culpa repellat explicabo distinctio totam aperiam autem. Laboriosam, voluptatem? Inventore ipsum a neque eaque laudantium similique fugiat reiciendis nemo excepturi voluptate incidunt modi architecto, minus delectus cum voluptatem necessitatibus tempora ullam doloribus. Eveniet repellendus numquam quis placeat. Harum, in fuga? Ut, tempore? Tempora accusamus neque doloribus molestias. Nobis, commodi? Sunt similique facere incidunt ut, a nam laudantium reiciendis ipsa fugit vitae ad saepe iste voluptas adipisci quos deleniti, doloremque libero quis reprehenderit, dolorem ipsum porro obcaecati? Error incidunt molestias nesciunt, illum, architecto ea nemo soluta voluptas iste, minima quis."
+        "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Choponota.jpg",
+        "h1": "mausoleum of Chupanata",
+        "p": "Have you ever seen a mausoleum without a grave 100 meter above the city Samarkand? Why do we need mausoleums ?",
+        "about": "Generally, celebrities and people with a great influence such as kings, khans, and generals are buried in mausoleums. However, the mausoleum of "Chupanata" is different from others. This mausoleum is 824 meters above sea level, and that place gives an breathtaking view of Samarkand city. During archeological works, swords and armor were found. The most interesting thing is that this building does not have any burial! From the soil of this place, the basement of the conqueror Amir Temur's burial , Guri Amir was built. Later, Ulugbek built the first observatory in the world around the mausoleum. Some sources say that this building even served as a beacon."
     },
     {
         "id": 3,
