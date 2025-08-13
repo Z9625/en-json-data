@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "img": "/assets/registan.png",
-        "h1": "Sarlavha 2",
-        "p": "Tavsif 2",
-        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus impedit quia culpa repellat explicabo distinctio totam aperiam autem. Laboriosam, voluptatem? Inventore ipsum a neque eaque laudantium similique fugiat reiciendis nemo excepturi voluptate incidunt modi architecto, minus delectus cum voluptatem necessitatibus tempora ullam doloribus. Eveniet repellendus numquam quis placeat. Harum, in fuga? Ut, tempore? Tempora accusamus neque doloribus molestias. Nobis, commodi? Sunt similique facere incidunt ut, a nam laudantium reiciendis ipsa fugit vitae ad saepe iste voluptas adipisci quos deleniti, doloremque libero quis reprehenderit, dolorem ipsum porro obcaecati? Error incidunt molestias nesciunt, illum, architecto ea nemo soluta voluptas iste, minima quis."
+        "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Choponota.jpg",
+        "h1": "Cho'ponota maqbarasi",
+        "p": "Cho‘ponota maqbarasi Samarqand shahrida, Afrosiyob tepaligi yaqinida joylashgan. U XV asrda, taxminan Temuriylar davrida qurilgan bo‘lib, xalq orasida “Cho‘pon ota” nomi bilan mashhur bo‘lgan avliyo yoki shayx yodgorligi sifatida e’zozlanadi.",
+        "about": "Maqbaralarda asosan jamiyat arboblari, podsholar va sarkardalar daf etiladi. Ammo, Cho'ponota maqbarasi ulardan ajralib turadi. Cho'ponota maqbarasi dengiz sathidan 824 metr balandlikda va bu yerdan shaharning manzarasini tomosha qilish  mumkin. Arxeologik ishlar davomida bu yerdan askarlarning qurol aslahalari topilgan. Eng qizig'i shundaki, maqbaradan hech kimning qabri topilmagan. Bu maqbaraning atrofidagi gilidan go'ri amir maqbarasiga poydevor barpo etilgan. Keyinchalalik uning atrofida Ulugbek o'z rasadxonasini qurgan. Ba'zibir manbalarga ko'ra bu yer mayoq vazifasini ham o'tagan deyiladi."
     },
     {
         "id": 3,
