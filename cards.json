@@ -1,44 +1,23 @@
 [
     {
-        "id": 1,
+        "id": 3,
+        "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/afrosiyob.jpg",
+        "h1": "Afrosiyob",
+        "p": "Afrosiyob was founded in the 8th–7th centuries BC in the northeastern part of present-day Samarkand. It was the capital of Sogdiana until it was destroyed in the 13th century during the Mongol invasion.",
+        "about": "Afrasiyob is considered the ancient center of Samarkand. The ruins of Afrasiyob are located in the north-east of Samarkand, about 10-15 meters above the city. The city is mentioned in ancient sources as 'Smarakanve.'   In the 4th century AD, after the conquest of Samarkand by Alexander the Great, it was mentioned in Greek sources as Maroqanda. Maroqanda is the Greek translation of Smarakanve. When the Samanids came to power in Mawarannahr, the ancient Smaragand began to be called Samarkand from the 9th century onwards. \n \n In the 11th-15th centuries, Samarqand was referred to as Semizkent in Turkish literature. From the 15th century onwards, the name Samarqand began to be used in Persian and Turkish sources. \n \n There is very little information about the early history of the city in written sources. However, archaeological excavations in the old city provide more information. \n Archaeological materials found in Afrosiyob indicate that Samarkand existed as the central city of Sugd in the 8th-5th centuries BC. In 329 BC, the city was destroyed by the armies of Alexander the Great, traces of which are still well preserved in the city's fortifications. In the 3rd-1st centuries BC, during the reign of the Kushan dynasty, the city experienced a period of prosperity. In the 3rd century BC, the city was surrounded by a defensive wall. The remains of this wall are well preserved in the northern part of Afrosiyob, where its ruins are located. According to archaeological materials and written sources, during this period, the Great Silk Road passed through Samarkand, and internal and external trade and crafts flourished. In the early Middle Ages, Samarkand became the capital of Sugʻdiyonan and enjoyed a position of influence, undergoing fundamental changes in the social and economic life of the city. The power of the Badavlat dekhqons grew, and at the same time, the northern part of Afrosiyob, where their palaces were located, was surrounded by a defensive wall. This situation also prevailed in Movarounnaxr and the neighboring provinces. During this period, the rulers of Samarkand were called 'Ixshid,' while the rulers of Bukhara were called 'Buxorxudot.' In 712, when the Arabs led by Qutayba ibn Muslim arrived, the defensive walls of Samarkand were strong, and there was a moat around them. Qutayba defeated the armies of Farg'ona, Shosh, and the Turks who had come to the aid of Samarqand, and the ruler of Sug'd, G'urak, who had been left without support, was forced to surrender the inner part of the city (shahriston) to the Arabs. Archaeological findings prove that statues and murals depicting Islam were destroyed with axes. \n \n On July 13, 1966, a special decision was made by the government of the republic to organize a complex archaeological study of Afrosiyob. Archaeological research, based on precise scientific methods, revealed not only the city's long history, but also its historical topography in different periods, the structure of the city, the stages of its development, and the periods of prosperity that followed the invasions have been identified. The royal palace of the Samarkand rulers has been opened to the public."
+    },
+    {
+        "id": 2,
         "img": "https://raw.githubusercontent.com/Z9625/cards-data/main/Ashm.jpg",
         "h1": "Ashratkhona Mausoleum",
         "p": "The Ashratkhona Mausoleum is located in the old part of Samarkand, near Registan, and was built in 1464 during the Timurid era, in the time of Amir Temur's grandson, Mirzo Ulughbek.",
         "about": "The Ashratkhona Mausoleum is located on the outskirts of the old city of Samarkand and is considered an architectural monument of Samarkand. Until recently, it was known as 'Ishratkhona', but researchers from the Samarkand State Museum-Reserve emphasize that its original name was 'Ashratkhona' (meaning 'ten rooms' in Arabic-Persian) and that the name had changed in pronunciation over time. The name 'Ashratkhona' was also given conditionally, connected to the political crisis that occurred in the Bukhara Khanate in the 18th century. During that time, wars between tribes and repeated invasions caused a plague outbreak, leading the population to abandon Samarkand. In the era of Emir Shohmurod of Bukhara, when Samarkand was rebuilt, settlers from different regions, lacking complete knowledge, gave ancient monuments names of their own. The 'Samariya' work, written in the 1830s, mentions the Ashratkhona Mausoleum. Based on the work, it can be said that this mausoleum was fully constructed in 1963 on the orders of Habiba Sultan for her daughter, Sultan Hovandbeka. Later, it became a dynastic tomb where 23 women and children were buried. After the Timurids lost power and the Shaybanids came, mausoleums and madrasahs related to the dynasty were neglected. This neglect continued during the Russian Empire and Soviet Union periods, leaving it to fall into ruin. For example, during the 1897 earthquake, the mausoleum suffered severe damage, and in 1902 its dome collapsed."
     },
     {
-        "id": 2,
+        "id": 1,
         "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Choponota.jpg",
         "h1": "Mausoleum of Chupanata",
         "p": "Have you ever seen a mausoleum without a grave 100 meter above the city Samarkand? Why do we need mausoleums ?",
         "about": "Generally, notable figures and people of great influence such as kings, khans, and generals are buried in mausoleums. However, the Chupanata Mausoleum is different from the others. Located 824 meters above sea level, it offers a breathtaking view of Samarkand city. During archaeological excavations, swords and pieces of armor were found here. The most interesting fact is that this building contains no burial at all! Soil from this site was used to build the foundation of the conqueror Amir Temur's mausoleum, Gur-e Amir. Later, Ulugh Beg constructed his observatory around it. Some sources claim that this building even served as a beacon."
-    },
-    {
-        "id": 3,
-        "img": "/assets/registan.png",
-        "h1": "Title 3",
-        "p": "description 3",
-        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus impedit quia culpa repellat explicabo distinctio totam aperiam autem. Laboriosam, voluptatem? Inventore ipsum a neque eaque laudantium similique fugiat reiciendis nemo excepturi voluptate incidunt modi architecto, minus delectus cum voluptatem necessitatibus tempora ullam doloribus. Eveniet repellendus numquam quis placeat. Harum, in fuga? Ut, tempore? Tempora accusamus neque doloribus molestias. Nobis, commodi? Sunt similique facere incidunt ut, a nam laudantium reiciendis ipsa fugit vitae ad saepe iste voluptas adipisci quos deleniti, doloremque libero quis reprehenderit, dolorem ipsum porro obcaecati? Error incidunt molestias nesciunt, illum, architecto ea nemo soluta voluptas iste, minima quis."
-    },
-    {
-        "id": 4,
-        "img": "/assets/registan.png",
-        "h1": "Title 4",
-        "p": "description 4",
-        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus impedit quia culpa repellat explicabo distinctio totam aperiam autem. Laboriosam, voluptatem? Inventore ipsum a neque eaque laudantium similique fugiat reiciendis nemo excepturi voluptate incidunt modi architecto, minus delectus cum voluptatem necessitatibus tempora ullam doloribus. Eveniet repellendus numquam quis placeat. Harum, in fuga? Ut, tempore? Tempora accusamus neque doloribus molestias. Nobis, commodi? Sunt similique facere incidunt ut, a nam laudantium reiciendis ipsa fugit vitae ad saepe iste voluptas adipisci quos deleniti, doloremque libero quis reprehenderit, dolorem ipsum porro obcaecati? Error incidunt molestias nesciunt, illum, architecto ea nemo soluta voluptas iste, minima quis."
-    },
-    {
-        "id": 5,
-        "img": "/assets/registan.png",
-        "h1": "Title 5",
-        "p": "description 5",
-        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus impedit quia culpa repellat explicabo distinctio totam aperiam autem. Laboriosam, voluptatem? Inventore ipsum a neque eaque laudantium similique fugiat reiciendis nemo excepturi voluptate incidunt modi architecto, minus delectus cum voluptatem necessitatibus tempora ullam doloribus. Eveniet repellendus numquam quis placeat. Harum, in fuga? Ut, tempore? Tempora accusamus neque doloribus molestias. Nobis, commodi? Sunt similique facere incidunt ut, a nam laudantium reiciendis ipsa fugit vitae ad saepe iste voluptas adipisci quos deleniti, doloremque libero quis reprehenderit, dolorem ipsum porro obcaecati? Error incidunt molestias nesciunt, illum, architecto ea nemo soluta voluptas iste, minima quis."
-    },
-    {
-        "id": 6,
-        "img": "/assets/registan.png",
-        "h1": "Title 6",
-        "p": "description 6",
-        "about": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus impedit quia culpa repellat explicabo distinctio totam aperiam autem. Laboriosam, voluptatem? Inventore ipsum a neque eaque laudantium similique fugiat reiciendis nemo excepturi voluptate incidunt modi architecto, minus delectus cum voluptatem necessitatibus tempora ullam doloribus. Eveniet repellendus numquam quis placeat. Harum, in fuga? Ut, tempore? Tempora accusamus neque doloribus molestias. Nobis, commodi? Sunt similique facere incidunt ut, a nam laudantium reiciendis ipsa fugit vitae ad saepe iste voluptas adipisci quos deleniti, doloremque libero quis reprehenderit, dolorem ipsum porro obcaecati? Error incidunt molestias nesciunt, illum, architecto ea nemo soluta voluptas iste, minima quis."
     }
 ]
