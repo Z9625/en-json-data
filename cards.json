@@ -1,5 +1,13 @@
 [
     {
+        "id": 5,
+        "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Qutb-ul-Awliya.png",
+        "h1": "Qutb-ul-Awliya Qasim Sheikh Azizon",
+        "p": "Qutb-ul-Awliya Qasim Sheikh Azizon, Navoi",
+        "about": "The famous Sufi, Qutb-ul-Awliya Qasim Sheikh Azizon was born in the land of Karmana in the early 16th century. \n\n In Bukhara and Samarkand madrassas he was educated by Qohi Nuri Mawlavi, Khoja Mawlana Wali Azizon and Sheikh Khudoydadi Wali. He was the thirteenth in the Jahriya dynasty emanating from SharifAhmad Yassavi. Some of the guardians of this period, while originating from the same circle, were well versed in other sects. \n\n In particular, Qutb-ul-Awliya Qasim Sheikh Azizon was a perfectly knowledgeable of the Yassaviya, Naqshbandi, Kubroviya and Qadiriya sects, which were widespread at that time. \n\n Hazrat Qasim Sheikh was one of the most trusted pirs of one of the greatest rulers of the 16th century, Abdullah ibn Iskandarkhan. \n\n For this reason, this khanaqah was built by Abdullah in the name of Qasim Sheikh in 1558- 1568. He used to teach students science in this khanaqah. Qutb-ul-Awliya Qasim Sheikh Azizon died in 1578 (Hijri 986) at the age of about 80 in Karmana and was buried on the east side of the khanaqah.",
+        "img1": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Kukeldash2.jpg"
+    },
+    {
         "id": 4,
         "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Kukeldash1.jpg",
         "h1": "Kukeldash",
