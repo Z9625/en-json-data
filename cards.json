@@ -1,5 +1,13 @@
 [
     {
+        "id": 6,
+        "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Stone-Forest.png",
+        "h1": "Stone Forest",
+        "p": "How many types of forests do you know?",
+        "about": "When asked this question, tropical forests or perhaps temperate forests may come to your mind. But has a stone forest ever come to your mind? The Kyzylkum Desert, which covers 30 million hectares, was once under a sea called “Tethys.” The bones and shells of marine creatures found in the desert serve as evidence of this. There are assumptions that this wonder is connected to the shores of the Tethys Sea and meteorites that fell into it. It is said that as a result of meteorites falling from space, the sea water decomposed, and these lands remained shielded from sunlight for hundreds of years, covered by whirlwinds of dust and sand. As a result, all physical rocks chemically combined, and the forests around the sea, as well as animals that lived in water and on land, transformed into a different form, that is, they turned into stone.",
+        "reference": "https://meros.uz/object/jaraquduq-hududidagi-tosh-ormon"
+    },
+    {
         "id": 5,
         "img": "https://raw.githubusercontent.com/Z9625/cards-data/refs/heads/main/Qutb-ul-Awliya.png",
         "h1": "Qutb-ul-Awliya Qasim Sheikh Azizon",
